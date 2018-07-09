@@ -11,3 +11,5 @@
 git submodule update --init
 grails run-app
 ```
+
+# Making this modification to show an example workflow of what needs to happen when a file is modified.
